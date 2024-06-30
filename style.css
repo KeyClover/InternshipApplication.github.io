@@ -126,14 +126,14 @@
   
 }
 
-.input-submit button {
+.input-submit input {
   position:relative;
   bottom:relative;
   left: 50%;
   transform: translateX(-50%);
 }
 
-.input-submit button {
+.input-submit input {
   background-color: #D3D3D3; 
   border: none; 
   padding: 13px ;
