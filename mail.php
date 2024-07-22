@@ -32,7 +32,7 @@ $mail ->Port = 587;
 $mail ->Username =" "; //Put your own gmail here
 $mail ->Password =" "; //Put your own gmail application password here
 
-$mail ->setFrom("suvichakkey45@gmail.com");
+$mail ->setFrom(" ");//Put your own gmail here
 
 $mail->addAddress($_POST["email"]);
 
